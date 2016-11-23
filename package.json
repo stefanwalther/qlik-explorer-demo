@@ -1,5 +1,5 @@
 {
-  "name": "demo-qlik-explorer",
+  "name": "qlik-explorer-demo",
   "version": "0.1.0",
   "description": "A few templates to start working with Qlik Explorer (or just be able to demo it nicely).",
   "main": "index.js",
@@ -11,5 +11,19 @@
   "devDependencies": {},
   "dependencies": {
     "bootstrap": "^3.3.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/qlik-explorer-demo.git"
+  },
+  "keywords": [
+    "qlik-explorer",
+    "demo",
+    "boilerplate",
+    "bootstrap"
+  ],
+  "bugs": {
+    "url": "https://github.com/stefanwalther/qlik-explorer-demo/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/qlik-explorer-demo#readme"
 }
