@@ -1,0 +1,12 @@
+{
+  "name": "demo-qlik-explorer",
+  "version": "0.1.0",
+  "description": "Just some examples for demo-qlik-explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Walther <swrqtch@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "devDependencies": {}
+}
